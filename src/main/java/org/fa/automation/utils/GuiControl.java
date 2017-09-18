@@ -23,6 +23,7 @@ public class GuiControl {
         locatorValue=locator.split("_TBD_")[1];
     }
 
+    // For setting the web browser
     public static void setWebDriver(String browserName){
         switch (browserName.toUpperCase()){
             case "CHROME":
