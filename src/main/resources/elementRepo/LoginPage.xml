@@ -1,0 +1,6 @@
+<UIElements>
+    <UIElement name="username" locatorType="xpath" locatorValue="//input[@type='email']"/>
+    <UIElement name="usernameNext" locatorType="xpath" locatorValue="//span[contains(text(),'Next')]"/>
+    <UIElement name="password" locatorType="xpath" locatorValue="//input[@type='password']"/>
+    <UIElement name="passwordNext" locatorType="xpath" locatorValue="//span[contains(@class,'RveJvd snByac')]"/>
+</UIElements>
